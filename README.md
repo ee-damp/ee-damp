@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## GitHub repo for EE-Damp
 <!--
 **ee-damp/ee-damp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
